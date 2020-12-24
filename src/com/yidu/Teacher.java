@@ -9,5 +9,6 @@ package com.yidu;
 public class Teacher {
 
     private String name="贝贝";
+    private String pass="123456";
 
 }
